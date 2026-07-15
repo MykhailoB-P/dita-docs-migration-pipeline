@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="install">
+    <title>How to Install</title>
+    <taskbody>
+        <steps>
+            <step><cmd>Download the application.</cmd></step>
+            <step><cmd>Run the setup file.</cmd></step>
+        </steps>
+    </taskbody>
+</task>
