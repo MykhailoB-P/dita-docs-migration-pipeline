@@ -1,0 +1,7 @@
+# XML Validation & GitHub Migration Lab (Docs as Code Workflow)
+
+This repository is a **self-learning and practice project** designed to explore the concepts of **Docs as Code (DaC)**, DevOps automation, and structured content management in GitHub. 
+
+The goal of this project is to simulate a simplified workflow of migrating structured technical documentation (such as XML/DITA-based files) to a GitHub repository, ensuring content integrity and automated validation.
+
+---
