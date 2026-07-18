@@ -21,3 +21,8 @@ jobs:
 
     - name: Execute Python Validator
       run: python validate_xml.py
+
+    - name: Lint Markdown Documentation
+      uses: davidanson/markdownlint-cli2-action@v16
+      with:
+        globs: '**/*.md'
