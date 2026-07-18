@@ -1,3 +1,5 @@
+![Docs Validation Status](https://github.com/MykhailoB-P/dita-docs-migration-pipeline/actions/workflows/ci.yml/badge.svg)
+
 # XML Validation & GitHub Migration practice (Docs as Code Workflow)
 
 This repository is a **self-learning and practice project** designed to explore the concepts of **Docs as Code (DaC)**, DevOps automation, and structured content management in GitHub. 
